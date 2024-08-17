@@ -17,4 +17,14 @@
 
 </br>
 
+## Installation
+
+Add the dependency to your `build.gradle.kts` file:
+
+```kotlin
+commonMain.dependencies {
+    implementation("network.chaintech:kmp-date-time-picker:1.0.2")
+}
+```
+
 
