@@ -30,7 +30,8 @@ commonMain.dependencies {
 ## To try Desktop Watch the Video
 
 
-https://github.com/user-attachments/assets/81d48aa5-006b-49d0-a0aa-1dee9590bb50
+![Adsız tasarım](https://github.com/user-attachments/assets/f06f100b-e9f7-4131-a240-20fc741d122b)
+
 
 </br>
 
