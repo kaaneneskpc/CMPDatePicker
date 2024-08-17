@@ -1,6 +1,6 @@
-# KMP Date Picker
+# CMP Date Picker
 
-- ###  This project about A Data Picker Component that can be used in KMP/CMP projects
+- ###  This project about A Data Picker Component that can be used in CMP projects
 
 </br>
 
