@@ -27,6 +27,13 @@ commonMain.dependencies {
 }
 ```
 
+## To try Desktop Watch the Video
+
+
+https://github.com/user-attachments/assets/81d48aa5-006b-49d0-a0aa-1dee9590bb50
+
+</br>
+
 
 
 
